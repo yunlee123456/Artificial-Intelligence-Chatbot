@@ -3,7 +3,7 @@
 ## Project Management Plan
 
 
-Project Implementation: [Project ](Artificial-Intelligence-Chatbot/B-PROJECT_PLANNING.md)
+Project Implementation: [Project Implementation](Artificial-Intelligence-Chatbot/README.md)
 
 
 Project Planning: [Project Planning]

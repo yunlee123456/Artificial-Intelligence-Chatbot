@@ -17,22 +17,26 @@ Next, validate that the project is finished. Before we can formally shut down a 
 ### Review all contracts and documentation	
 Review all the project documentation to ensure all parties have been paid for the work and there are no outstanding invoices.
 
-1. Customer Acceptance Form
+
+**1. Customer Acceptance Form**
 
 ![image](https://user-images.githubusercontent.com/118036772/209776580-6db583b7-1778-4e0b-ac2d-47f1aa5bb375.png)
 
-2. Lessons Learned Document
+
+**2. Lessons Learned Document**
 
 ![image](https://user-images.githubusercontent.com/118036772/209785071-608f9ef0-c807-431c-b82e-2567d3f06995.png)
 
-3. ORIGINAL AND ACTUAL BUDGET
+
+**3. ORIGINAL AND ACTUAL BUDGET**
 
 ![image](https://user-images.githubusercontent.com/118036772/209787179-2089b101-e21c-4168-8cbd-c21eb76cfe13.png)
 
 
-4. Close Contract
+**4. Close Contract**
 
 ![image](https://user-images.githubusercontent.com/118036772/209786736-899c0ac5-0f06-417f-a128-c4505f89ad3b.png)
+
 
 ### Release resources
 Declare all resources (suppliers, contractors, team members, and partners) released from the project. In order to free them up to focus on other projects, we should let them know that the project has concluded, confirm any remaining payments or commitments, and formally release them.

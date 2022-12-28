@@ -112,7 +112,9 @@ Maintaining consistent communication keeps projects on track and helps avoid cos
 ![image](https://user-images.githubusercontent.com/118036772/209770767-5343cf5c-333c-4abb-80a8-30f6975a1a3f.png)
 
 
+![image](https://user-images.githubusercontent.com/118036772/209770950-feae62b8-86d5-4646-87c9-30c28e5871fd.png)
 
 
+![image](https://user-images.githubusercontent.com/118036772/209771302-232e8200-0931-485e-961d-3f4ad71d7604.png)
 
 

@@ -40,8 +40,12 @@ Declare all resources (suppliers, contractors, team members, and partners) relea
 ### Conduct a post-mortem
 When a project comes to a close, one of the most helpful things to do is to do a post-mortem or evaluation of the entire thing. Now is the moment to reflect on the project's accomplishments and setbacks in order to better plan for its future. The next step is to seek input on the project from the management team by means of a survey or meeting. Your responses, taken together, will provide a fuller picture of the project's success. (If your team is using the scrum technique, a sprint retrospective is the best way to collect this data.)
 
+![IC-How-to-Run-a-Project-Post-Mortem-Timeline-Example](https://user-images.githubusercontent.com/118036772/209791883-d3f6098a-24d8-4c80-9c54-ababda34faad.png)
+
+
 ### Archive documentation
 Remember to take detailed notes on the project's success and areas for growth, so that this document can be used as a resource and the lessons learned can be applied to future endeavors. In addition to serving as a reference for the team in the future, thorough documentation ensures there is a record of all project-related activities, decisions, and actions should they be requested by legal, human resources, or upper management.
+
 
 ### Celebrate success
 In the end-of-project part, the duration of the party is one day. Celebration is to boost morale by recognising the team's efforts. Usually include all the stakeholder.

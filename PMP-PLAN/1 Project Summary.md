@@ -11,9 +11,14 @@ In our chatbot system, the data will be trained first to help the system recogni
 
 ### Customer: AITech Inc.
 
-### Project Name: Artificial Intelligence Chatbot Assistant
+### Project Name: ARTIFICIAL INTELLIGENCE CHATBOT ASSISTANT
 
 ### Team Members: 
 + LEE YUN KANG  B032010390
 + KISHWANTH A/L HARI KRISHNAN  B032010185
 + MOHAMMAD IRSYAD BIN MOHD SHAHRIL  B032010242
+
+### Objectives: 
++ To develop a chatbot that are designed to give people an automated way to communicate with the company.
++ To provide useful information regarding the types of issues faced.
++ To develop a system that is able to improve the customer service in the future.

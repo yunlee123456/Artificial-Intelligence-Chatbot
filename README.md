@@ -1,7 +1,7 @@
 # Artificial-Intelligence-Chatbot
 
 ## Project Management Plan
-Project Summary: [Project Summary](https://github.com/yunlee123456/Artificial-Intelligence-Chatbot/blob/main/PMP-PLAN/Project%20Summary.md)
+Project Summary: [Project Summary](https://github.com/yunlee123456/Artificial-Intelligence-Chatbot/blob/main/PMP-PLAN/1%20Project%20Summary.md)
 
 In the Project Summary, briefly describe the project's objectives and team members.
 

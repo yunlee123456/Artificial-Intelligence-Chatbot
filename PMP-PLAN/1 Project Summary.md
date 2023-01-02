@@ -22,3 +22,6 @@ In our chatbot system, the data will be trained first to help the system recogni
 + To develop a chatbot that are designed to give people an automated way to communicate with the company.
 + To provide useful information regarding the types of issues faced.
 + To develop a system that is able to improve the customer service in the future.
+
+<br><br><br>
+##### Next: [Project Planning](Project Planning.md)

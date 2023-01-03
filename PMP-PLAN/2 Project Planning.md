@@ -16,3 +16,12 @@ The Project Management Work Breakdown Structure (WBS) is shown in the Gantt Char
 Next, for the Artificial Intelligence Chatbot Assistant, the system's work breakdown structure (WBS) are represented as below. The technical element of the project is broken down into a number of modules using this WBS, including goal-based, knowledge-based, service-based, and response-generated-based modules :
 
 ![ARTIFICIAL INTELLIGENCE CHATBOTASSISTANT (1)](https://user-images.githubusercontent.com/121415244/210376053-8e26b421-e32d-40a5-ab68-3c040ca06025.jpg)
+
+### Scope
+
+The creation of a work breakdown structure (WBS) allows for the mapping of all required tasks and the development of the process, with the WBS being maintained and approved.
+
+In this Artificial Intelligence Chatbot Assistant project, we need to identify the scope of the project. Chatbots are now based on Natural Language Processing (NLP).
+Businesses are researching Natural Language Processing (NLP) to be able to send accurate responses to users' inquiries. The goal is to allow users and Artificial Intelligence to communicate naturally and understand complex requests. This would mean that customer service agents would be able to focus on other tasks while the AI takes care of customers' queries.
+
+### Risk Identification Table For Quality, Cost and Time

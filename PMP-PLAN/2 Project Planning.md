@@ -60,5 +60,6 @@ Businesses are researching Natural Language Processing (NLP) to be able to send 
 | Office of Technology Services (OTech) Representative | Mohammad Irsyad Bin Mohd Shahril | The OTech Representative serves as a point of interaction between the Project Office and the OTech in defining the services that are necessary, helping the project determine whether certain services are feasible, providing cost estimates, planning, and other technical assistance to help the project make educated data centre decisions. This position is crucial since it will aid our business in deciding which technology and stack to prioritise. We can only check the risk management and assessibility once the technological stack and requirements have been established. OTech is so crucial to ensuring the right technology stack and cost in a corporation.|
 
 
-
+<br><br><br>
+##### Next: [Project Execution](3 Project Execution.md)
 

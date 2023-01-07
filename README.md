@@ -13,6 +13,8 @@ Planning procedures consist of developing and maintaining a functional plan to g
 
 Project Execution: [Project Execution](https://github.com/yunlee123456/Artificial-Intelligence-Chatbot/blob/main/PMP-PLAN/3%20Project%20Execution.md)
 (Because project implementation is not covered in our syllabus, we will focus on project execution.  (BITI 3533 Artificial Intelligence Project Management) )
+
+
 In the execution phase, the project deliverables, such as software requirements and Intelligent system design, are established and documented, along with the outcome, code blocks, and technical implementation.
 
 

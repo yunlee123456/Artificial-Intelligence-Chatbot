@@ -10,6 +10,8 @@ Project Planning: [Project Planning](https://github.com/yunlee123456/Artificial-
 Planning procedures consist of developing and maintaining a functional plan to guarantee that the project meets the needs of the company. In this phase, the Gantt Chart and Work Breakdown Structure (WBS) are documented.
 
 
+(Because project implementation is not covered in our syllabus, we will focus on project execution and project monitoring and controlling.  (BITI 3533 Artificial Intelligence Project Management) )
+
 
 Project Execution: [Project Execution](https://github.com/yunlee123456/Artificial-Intelligence-Chatbot/blob/main/PMP-PLAN/3%20Project%20Execution.md)
 (Because project implementation is not covered in our syllabus, we will focus on project execution.  (BITI 3533 Artificial Intelligence Project Management) )
@@ -18,7 +20,10 @@ Project Execution: [Project Execution](https://github.com/yunlee123456/Artificia
 In the execution phase, the project deliverables, such as software requirements and Intelligent system design, are established and documented, along with the outcome, code blocks, and technical implementation.
 
 
-Project Closing: [Project Closing](https://github.com/yunlee123456/Artificial-Intelligence-Chatbot/blob/main/PMP-PLAN/4%20Project%20Closing.md)
+Project Monitoring and Controlling: [Project Monitoring and Controlling](https://github.com/yunlee123456/Artificial-Intelligence-Chatbot/blob/main/PMP-PLAN/4%20Project%20Monitoring%20and%20Controlling.md)
+
+
+Project Closing: [Project Closing](https://github.com/yunlee123456/Artificial-Intelligence-Chatbot/blob/main/PMP-PLAN/5%20Project%20Closing.md)
 
 Project Closing signifies the conclusion of the project lifetime, at which point the project must provide a closing document and a report on lessons learned.
 

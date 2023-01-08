@@ -22,6 +22,8 @@ In the execution phase, the project deliverables, such as software requirements 
 
 Project Monitoring and Controlling: [Project Monitoring and Controlling](https://github.com/yunlee123456/Artificial-Intelligence-Chatbot/blob/main/PMP-PLAN/4%20Project%20Monitoring%20and%20Controlling.md)
 
+The monitoring and controlling phase is an ongoing process that occurs throughout the duration of a project, and involves close collaboration and communication between the project team and stakeholders. The ultimate goal of this phase is to ensure that the project is delivered on time, within budget, and to the required quality standards.
+
 
 Project Closing: [Project Closing](https://github.com/yunlee123456/Artificial-Intelligence-Chatbot/blob/main/PMP-PLAN/5%20Project%20Closing.md)
 

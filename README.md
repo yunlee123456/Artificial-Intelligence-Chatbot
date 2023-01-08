@@ -31,7 +31,7 @@ Project Closing: [Project Closing](https://github.com/yunlee123456/Artificial-In
 Project Closing signifies the conclusion of the project lifetime, at which point the project must provide a closing document and a report on lessons learned.
 
 
-Project Report: [Project Report](https://github.com/yunlee123456/Artificial-Intelligence-Chatbot/blob/main/Report.pdf)
+Project Report: [Project Report](https://github.com/yunlee123456/Artificial-Intelligence-Chatbot/blob/main/PMP-PLAN/Report.pdf)
 
 
 Project Presentation: [Project Presentation](https://github.com/yunlee123456/Artificial-Intelligence-Chatbot/blob/main/PMP-PLAN/6%20Project%20Presentation.md)

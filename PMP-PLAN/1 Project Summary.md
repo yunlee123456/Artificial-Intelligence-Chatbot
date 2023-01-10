@@ -14,7 +14,7 @@ In our chatbot system, the data will be trained first to help the system recogni
 ### Project Name: ARTIFICIAL INTELLIGENCE CHATBOT ASSISTANT
 
 ### Team Members: 
-+ LEE Yun Kang B032010390
++ LEE YUN KANG B032010390
 + KISHWANTH A/L HARI KRISHNAN  B032010185
 + MOHAMMAD IRSYAD BIN MOHD SHAHRIL  B032010242
 
